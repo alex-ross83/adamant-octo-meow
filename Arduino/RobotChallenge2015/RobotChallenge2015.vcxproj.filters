@@ -17,4 +17,9 @@
   <ItemGroup>
     <None Include="RobotChallenge2015.ino" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.RobotChallenge2015.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
